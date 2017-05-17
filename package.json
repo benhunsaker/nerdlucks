@@ -1,0 +1,19 @@
+{
+  "name": "nerdlucks",
+  "version": "0.0.1",
+  "description": "A marchmadness bracket platform to have fun wtih friends and family.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhunsaker/nerdlucks.git"
+  },
+  "author": "Ben Hunsaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benhunsaker/nerdlucks/issues"
+  },
+  "homepage": "https://github.com/benhunsaker/nerdlucks#readme"
+}
